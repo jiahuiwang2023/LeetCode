@@ -1,5 +1,7 @@
 # 1. Two Sum
 
+# Easy
+
 # Array
 # Hash Table
 
